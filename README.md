@@ -1,2 +1,2 @@
 # computer-architecture
-Gia to mathhma sto Iek Alpha
+## Ergasia 1
